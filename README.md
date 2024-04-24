@@ -2,7 +2,7 @@
 ### Olá! Eu sou Marcos Fabricio C Silva 👋🏽
 
 ![Marcios Fabricio GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosfabricio&show_icons=true&theme=dracula)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marcosfabricio&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marcosfabricio&repo=github-readme-stats)](https://github.com/M-fabricio-C/github-readme-stats)
 
 ### Tecnoligias que eu uso no meu dia
 
